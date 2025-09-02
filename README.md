@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate frontend developer from the UK</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaina0k&label=Profile%20views&color=0e75b6&style=flat" alt="zaina0k" /> </p>
-
-- 🌱 I’m currently learning **React JS, Cloud Computing (AWS), Swift and more**
-
+# 💫 About Me:
+I am currently a university student studying Computer Science. I have a love to tinkering and customising things to make them more efficient and scalable
 - 👨‍💻 All of my projects are available at [https://zainaltaf.dev](https://zainaltaf.dev)
 
-- 📫 How to reach me **dev@zainaltaf.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/m-z-altaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-z-altaf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zaina0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaina0k" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-z-altaf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev@zainaltaf.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zaina0k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zaina0k&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaina0k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaina0k&show_icons=true&locale=en&layout=compact" alt="zaina0k" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=zaina0k&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaina0k&show_icons=true&locale=en" alt="zaina0k" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaina0k&" alt="zaina0k" /></p>
